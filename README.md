@@ -1,4 +1,7 @@
 <include a CircleCI status badge, here>
+[![alextoyese](https://circleci.com/gh/alextoyese/
+project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/alextoyese/project-ml-microservice-kubernetes/1/workflows/c2e98014-0a08-426b-b4f3-c0c96396d929/jobs/1)
+
 
 ## Project Overview
 
